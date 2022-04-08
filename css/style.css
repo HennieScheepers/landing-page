@@ -149,11 +149,12 @@ p {
 
 .quote {
     align-self: center;
+    justify-self: center;
 }
 
 .quotee {
     align-self: flex-end;
-    justify-self: flex-start;
+    
 }
 
 .quotee p {
