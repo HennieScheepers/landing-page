@@ -13,7 +13,7 @@ body {
     height: 100%;
     display: flex;
     flex-direction: column;
-    background-color: #ffc69c;
+    background-color: rgb(255, 248, 128);
     padding-left: 45px;
     padding-right: 45px;
     padding-bottom: 45px;
@@ -85,9 +85,9 @@ h1 {
 }
 
 button {
-    background-color:#9CD5FF;
+    background-color: black;
     border-radius: 6px;
-    color: black;
+    color: white;
     width: 100px;
 }
 
@@ -123,7 +123,7 @@ p {
     width: 100px;
     height: 100px;
     border-style: solid;
-    border-color:#9CD5FF;
+    border-color:black;
     border-radius: 10px;
 }
 
@@ -171,12 +171,13 @@ p {
 }
 
 .sign-up-container {
-    background-color:#9CD5FF;
+    background-color:black;
     display: flex;
     padding: 25px 50px 25px 50px;
     width: 60%;
     align-self: center;
     gap: 16px;
+    color: white;
 }
 
 .content-container {
@@ -194,12 +195,14 @@ p {
 
 .content-container p {
     margin: 0;
+    color: white;
 }
 
 .footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 25px 0px 25px 0px;
-    background-color:  #ffc69c;
-}
+    margin: 25px 0px 0px 0px;
+    background-color:   rgb(255, 248, 128);
+    width: 100%;
+    height: 50px;
