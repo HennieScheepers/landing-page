@@ -114,6 +114,7 @@ p {
     align-items: center;
     gap: 20px;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .sub-image-container {
