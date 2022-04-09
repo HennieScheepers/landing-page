@@ -37,6 +37,7 @@ html {
     flex-wrap: nowrap;
     margin-left: -40px;
     margin-right: -40px;
+    margin-bottom: 20px;
 }
 
 ul {
