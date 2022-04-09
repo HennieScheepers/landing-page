@@ -48,6 +48,7 @@ ul {
     justify-content: center;
     align-items: center;
     font-weight: 700;
+    gap: 16px;
 }
 a {
     text-decoration: none;
@@ -197,6 +198,7 @@ p {
     gap: 16px;
     color: white;
     flex-wrap: wrap;
+    
 }
 
 .content-container {
