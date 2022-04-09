@@ -11,6 +11,11 @@ body {
     padding: 0;
 }
 
+html {
+    margin: 0;
+    padding: 0;
+}
+
 .first-main-container {
     height: 100%;
     display: flex;
