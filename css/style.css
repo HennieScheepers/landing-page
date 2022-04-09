@@ -17,6 +17,8 @@ body {
     padding-left: 45px;
     padding-right: 45px;
     padding-bottom: 45px;
+    padding-top: 5px;
+    gap: 8px;
 }
 
 .header {
@@ -24,9 +26,12 @@ body {
     justify-content: space-between;
     align-items: flex-start;
     flex-wrap: nowrap;
+    margin-left: -40px;
+    margin-right: -40px;
 }
 
 ul {
+    font-size: small;
     display: flex;
     list-style: none;
     gap: 16px;
@@ -43,13 +48,10 @@ a {
     color: #282727;
 }
 
-header {
-    color: black;
-    font-size: 18px;
-    font-weight: 700;
-    margin-bottom: 36px;
-    padding-top: 8px;
-    padding-right: 0;
+.logo {
+    align-self: center;
+    width: 45px;
+    height: auto;
 }
 
 h1 {
